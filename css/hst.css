@@ -885,3 +885,7 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #2a9fd6;
 }
+
+.carousel-indicators li { 
+	visibility: hidden; 
+}
